@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+__pycache__
+output_dir/
+lightning_logs/
+.vscode
+*.parquet
+*.csv
+*.txt
+*.json
+*.pt
+notebooks/trials/
+outputs/
+multirun/
+data/
